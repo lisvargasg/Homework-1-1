@@ -1,0 +1,3 @@
+First attempt. Worked with MA datasets to build a Medicare Advantage dataset, a service area dataset, and a final data set merging the former two. All dataset building was done within data-build.R. This can be found within GitHUB repository organized as follows: ECON 470>Homework 1>1-1 which splits into data-code and data>input/output. 
+
+Using final dataset, began analysis and created a table of plan counts under each plan type, and with exclusions. Used CHATGPT for assistance. Code within Analysis file of 1-1. Tables appear in terminal; unable to create PDF file in this attempt. 
